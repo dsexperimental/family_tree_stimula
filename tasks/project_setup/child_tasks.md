@@ -14,4 +14,4 @@
     - Package Management: poetry
     ```
 
-2. [ ] Project Initialization: [task_details_folder](project_initialization)
+2. [x] Project Initialization: [task_details_folder](project_initialization)

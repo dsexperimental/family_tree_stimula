@@ -1,6 +1,6 @@
 # Child Tasks: Family Tree Project
 
-1. [ ] **Project Setup**: [task_details_folder](project_setup)
+1. [x] **Project Setup**: [task_details_folder](project_setup)
 
 2. [ ] **Data Models and Storage**: [task_details_folder](data_models_and_storage)
 

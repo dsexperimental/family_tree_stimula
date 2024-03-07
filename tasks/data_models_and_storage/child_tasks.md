@@ -1,6 +1,6 @@
 # Child tasks: Data Models and Storage
 
-1. [ ] **Implement `Person` Data Model**: Place in the {$project_root}/models directory.
+1. [x] **Implement `Person` Data Model**: Place it in the file {$project_root}/models/person.py.
     - Attributes:
         - First name
         - Last name
@@ -12,7 +12,7 @@
     - Include functions to convert to and from a dictionary
     - Create unit testing as appropriate
 
-2. [ ] **Define the `Relationship` model**: Place in the {$project_root}/models directory.
+2. [x] **Define the `Relationship` model**: Place it in the file {$project_root}/models/relationship.py.
     - Attributes:
         - Person 1 (user name)
         - Person 2 (user name)
